@@ -1,9 +1,13 @@
 # training 
 
-For learning purpose.
+For learning purpose and training.
 
 ## Subheader
 
-It is a subheader
+It is a subheader.
+
+## Another Subheader
+
+Some information.
 
 
