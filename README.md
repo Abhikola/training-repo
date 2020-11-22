@@ -1,4 +1,4 @@
 # training 
 
-some explanation
+for training purpose
 
